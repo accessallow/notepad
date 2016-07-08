@@ -1,0 +1,24 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 28, 2016, 9:17:45 AM
+    Author     : Pankaj
+*/
+
+.chapterRows{
+    border-left: solid 5px #FF5733;
+}
+.chapterRows:hover{
+    border-left: solid 10px #34A09C;
+}
+
+
+.noteRows{
+    border-left: solid 5px #34A09C;
+}
+.noteRows:hover{
+    border-left: solid 10px #FF5733;
+}
